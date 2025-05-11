@@ -1,4 +1,3 @@
-# -CT-School-Dashboard-
 📊 CT School Dashboard
 This interactive dashboard presents a data-driven view of public school performance across Connecticut counties, using ELA (English Language Arts) test scores and demographic insights.
 
@@ -9,17 +8,21 @@ This interactive dashboard presents a data-driven view of public school performa
 dashboard_app.py – Main Streamlit application.
 All_Years_With_County_Area.csv – Dataset used for visualizations.
 README.md – This file.
+
 📌 Key Features
 County-level performance tracking
 Demographic breakdowns and trends
 Urban vs. Suburban performance comparison
 Interactive visualizations: bar charts, pie charts, line graphs
+
 🛠️ Tools Used
 Python
 Streamlit
 Pandas
 Plotly
-Matplotlib / Seaborn
+Matplotlib 
+Seaborn
+
 📊 Data Source
 This project uses public education data (cleaned and pre-processed) for Connecticut school districts across multiple years.
 
